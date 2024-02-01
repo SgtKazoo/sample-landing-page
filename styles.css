@@ -1,0 +1,25 @@
+.hero{
+
+}
+
+.main-text{
+
+}
+
+.footer{
+
+}
+
+.quote{
+    background-color: #e5e7eb;
+}
+
+.hero, .footer{
+    background-color: #1f2937;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+}
+
